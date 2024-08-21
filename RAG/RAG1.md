@@ -16,7 +16,7 @@ RAG는 **Retrieval-Augmented Generation**의 약자입니다. 이는 LLM과 **�
 
 RAG 의 동작 원리는 다음과 같습니다. 이 과정은 임베딩 모델과 벡터 데이터베이스(Vector Database)를 이용해 비정형 데이터(문서, 이미지 등)와 사용자의 질문을 연결하는 방법을 서술한 것 입니다. 
 
-<img src="image/RAG.png" width="70%" height="30%" title="px(픽셀) 크기 설정" alt="RAG"></img>
+<img src="../image/RAG.png" width="70%" height="30%" title="px(픽셀) 크기 설정" alt="RAG"></img>
 
 1. **외부 데이터 소스 임베딩 및 저장**
 
